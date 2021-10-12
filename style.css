@@ -1,0 +1,283 @@
+.head{
+    width:100%;
+    height:30px;
+    background-color:black;
+    color:gainsboro;
+}
+
+
+.navbar{
+    height:80px;
+    
+}
+.blue-line{
+    width:100%;
+    height:5px;
+    background-color: skyblue;
+}
+
+.welcome{
+   text-align:center;
+}
+
+#blue{
+    color:rgb(40, 178, 233);
+    font-size:25px;
+}
+
+#black{
+    color:black;
+    font-size:30px;
+}
+
+.line {
+  
+    position: relative;
+    top:-20px;
+    left:0px;
+    width:600px;
+     height:300px;
+
+}
+
+.point {
+  stroke: black;
+}
+
+.input-group{
+    width: 50%;
+    margin: 0 auto;
+    
+}
+a{
+    text-decoration:none;
+}
+
+.input-group-text{
+    background-color: teal;
+    padding:12px;
+
+}
+
+.para{
+    font-size:18px;
+    justify-content: center;
+   position:relative;
+   top:-250px;
+}
+
+.btn{
+    padding:20px 40px 20px 40px;
+    background-color: teal;
+}
+
+.btn2{
+    position: relative;
+    top:0;
+    left:00px;
+    background-color: teal;
+}
+.btn:hover{
+    color:skyblue;
+    background-color: white;
+     padding:20px 40px 20px 40px;
+}  
+.number{
+    margin-left:120px;
+
+}
+
+.mail{
+    margin-left:60px;
+    
+}
+
+.icon{
+    margin-left:700px;
+}
+
+.better{
+    width:100%;
+    height:450px;
+    background-image:url("http://chiragca.in/images/Better-than-the-best-bg.jpg");
+    color:white;
+    font-size:30px;
+
+}
+
+
+.box1{
+    width:400px;
+    height:300px;
+    background-color: cadetblue;
+    position:absolute;
+    top:350px;
+    left:90px;
+    font-size:20px;
+}
+
+.box2{
+    width:350px;
+    height:200px;
+    position:absolute;
+    top:370px;
+    left:550px;
+}
+.text-end{
+    align-content: flex-end;
+    font-size:20px;
+    color:white;
+    position:absolute;
+    top:370px;
+    left:900px;
+}
+
+.nav-link{
+    font-size:20px;
+    
+    
+}
+.nav ul li a:hover{
+    color:red;
+}
+
+
+image{
+    position:relative;
+    width:400px;
+}
+
+
+.cont{
+    margin-top: -180px;
+    font-size: 30px;
+}
+.img-area{
+    text-align:center;
+    color:#fff;
+    position:relative;
+}
+
+.img-area img{
+    width:100%;
+    height:auto;
+}
+
+.img-text,
+.img-area:after{
+    width:100%;
+    position:absolute;
+    left:0;
+}
+
+.img-area:after{
+    content:'';
+    height:100%;
+    top:0;
+    transition: .5s;
+}
+
+.img-area:hover:after{
+    background:liner-gradient(to bottom, rgba(199,0,5,.01)0, rgba(199,0,57,.25)25%, 
+    rgba(199,0,5,.75) 75%),reba(199,0,57,.95) 100;
+}
+
+.img-text{
+    padding:20px;
+    margin-bottom:20px;
+    bottom:0;
+    z-index:1;
+    transform:all .5 cubic-bezier(.13,.62,.81,.91) 0s;
+}
+
+.img-text h3{
+    font-family:big john;
+}
+.img-text:hover .img-text{
+    transform:translateY(0);
+}
+
+
+.line3{
+    position:relative;
+    top:-20px;
+    left:0px;
+}
+
+.stay{
+    width:100%;
+    height:300px;
+    background-image:url("http://chiragca.in/images/Better-than-the-best-bg.jpg");
+    color:white;
+    font-size:35px;
+}
+.line4{
+    position:relative;
+    top:-20px;
+    left:400px;
+}
+
+.cont3{
+    width:100%;
+    height:500px;
+    background-color: lightgray;
+    
+}
+
+.heading{
+    font-size:25px;
+    margin-top:100px;
+    margin-left:100px;
+}
+
+.heading2{
+    font-size:20px;
+    margin-top:-80px;
+    margin-left:100px;
+    
+
+}
+
+.form{
+    width:700px;
+    height:400px;
+    position:absolute;
+    top:2800px;
+    left:750px;
+    background-color: white;
+    box-shadow: lightgray;
+}
+
+.contactus{
+    width:100%;
+    
+    background-color: gray;
+    color:black;
+    font-size:40px;
+    
+}
+
+#look{
+    margin-left:70px;
+    padding:35px;
+}
+
+.btn4{
+    color:white;
+    background-color: teal;
+    position:absolute;
+    top:3300px;
+    right:180px;
+
+}
+.line5{
+    position:relative;
+    top:-20px;
+    left:-155px;
+}
+
+.para2{
+    font-size:20px;
+    margin-top:20px;
+    margin-left:20px;
+}
